@@ -1,6 +1,6 @@
 <template>
-    <layout title="Home">
-        <h1>Hello World</h1>
+    <layout title="About">
+        <h3>This Page Using Inertia JS</h3>
     </layout>
 </template>
 
